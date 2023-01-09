@@ -1,0 +1,29 @@
+{
+  "classes": [
+    {
+      "id": 1,
+      "name": "A1",
+      "homeroom_teacher_id": 1
+    },
+    {
+      "id": 2,
+      "name": "A2",
+      "homeroom_teacher_id": 2
+    },
+    {
+      "id": 3,
+      "name": "A3",
+      "homeroom_teacher_id": 3
+    },
+    {
+      "id": 4,
+      "name": "A4",
+      "homeroom_teacher_id": 4
+    },
+    {
+      "id": 5,
+      "name": "A5",
+      "homeroom_teacher_id": 5
+    }
+  ]
+}

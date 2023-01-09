@@ -1,0 +1,67 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Hoàng Lê Xuân",
+      "age": 23,
+      "address": "23 Nguyễn Văn Thoại, Đà Nẵng",
+      "gender": "female"
+    },
+    {
+      "id": 2,
+      "name": "Hoàng Phạm Văn",
+      "age": 23,
+      "address": "23 Nguyễn Văn Thoại, Đà Nẵng",
+      "gender": "female"
+    },
+    {
+      "id": 3,
+      "name": "Việt Nguyễn Quốc",
+      "age": 22,
+      "address": "23 Nguyễn Văn Thoại, Đà Nẵng",
+      "gender": "female"
+    },
+    {
+      "id": 4,
+      "name": "Thắng Nguyễn Tấn",
+      "age": 23,
+      "address": "23 Nguyễn Văn Thoại, Đà Nẵng",
+      "gender": "female"
+    },
+    {
+      "id": 5,
+      "name": "Sơn Lê Đức",
+      "age": 30,
+      "address": "23 Nguyễn Văn Thoại, Đà Nẵng",
+      "gender": "female"
+    },
+    {
+      "id": 6,
+      "name": "Trong Trần Văn",
+      "age": 35,
+      "address": "23 Nguyễn Văn Thoại, Đà Nẵng",
+      "gender": "female"
+    },
+    {
+      "id": 7,
+      "name": "Huy Nguyễn Đình",
+      "age": 24,
+      "address": "23 Nguyễn Văn Thoại, Đà Nẵng",
+      "gender": "female"
+    },
+    {
+      "id": 8,
+      "name": "Tiến Phan Quang",
+      "age": 17,
+      "address": "Quảng Nam",
+      "gender": "other"
+    },
+    {
+      "id": 9,
+      "name": "Linh Nguyễn Văn",
+      "age": 28,
+      "address": "Quảng Nam",
+      "gender": "male"
+    }
+  ]
+}

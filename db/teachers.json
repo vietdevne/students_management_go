@@ -1,0 +1,68 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Lê Xuân Hoàng",
+      "age": 23,
+      "address": "23 Nguyễn Văn Thoại, Đà Nẵng",
+      "gender": "female",
+      "homeroom_teacher": true
+    },
+    {
+      "id": 2,
+      "name": "Phạm Văn Hoàng",
+      "age": 23,
+      "address": "23 Nguyễn Văn Thoại, Đà Nẵng",
+      "gender": "female",
+      "homeroom_teacher": true
+    },
+    {
+      "id": 3,
+      "name": "Nguyễn Quốc Việt",
+      "age": 22,
+      "address": "23 Nguyễn Văn Thoại, Đà Nẵng",
+      "gender": "female",
+      "homeroom_teacher": true
+    },
+    {
+      "id": 4,
+      "name": "Nguyễn Tấn Thắng",
+      "age": 23,
+      "address": "23 Nguyễn Văn Thoại, Đà Nẵng",
+      "gender": "female",
+      "homeroom_teacher": true
+    },
+    {
+      "id": 5,
+      "name": "Lê Đức Sơn",
+      "age": 30,
+      "address": "23 Nguyễn Văn Thoại, Đà Nẵng",
+      "gender": "female",
+      "homeroom_teacher": true
+    },
+    {
+      "id": 6,
+      "name": "Nguyễn Quốc Việt",
+      "age": 22,
+      "address": "23 Nguyễn Văn Thoại, Đà Nẵng",
+      "gender": "female",
+      "homeroom_teacher": false
+    },
+    {
+      "id": 7,
+      "name": "Nguyễn Tấn Thắng",
+      "age": 23,
+      "address": "23 Nguyễn Văn Thoại, Đà Nẵng",
+      "gender": "female",
+      "homeroom_teacher": false
+    },
+    {
+      "id": 8,
+      "name": "Lê Đức Sơn",
+      "age": 30,
+      "address": "23 Nguyễn Văn Thoại, Đà Nẵng",
+      "gender": "female",
+      "homeroom_teacher": false
+    }
+  ]
+}
